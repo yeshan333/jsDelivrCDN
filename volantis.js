@@ -2319,12 +2319,16 @@
     , function(e, t) {
         function aru(index){
             return "<img class='emoji aru' src='https://cdn.jsdelivr.net/gh/yeshan333/volantis@1.1/img/aru/" + index + ".png'>";
-          }
-          function tieba(str){
+        }
+
+        function tieba(str){
             return "<img class='emoji tieba' src='https://cdn.jsdelivr.net/gh/yeshan333/volantis@1.1/img/tieba/" + str + ".png'>";
-          }
-          function qq(str) {
+        }
+
+        function qq(str) {
             return "<img class='emoji qq' src='https://cdn.jsdelivr.net/gh/yeshan333/volantis@1.1/img/qq/" + str + ".gif'>";
+        }
+
         e.exports = {
             aru9: aru(9),
             aru12: aru(12),
