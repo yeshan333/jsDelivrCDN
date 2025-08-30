@@ -1,0 +1,13 @@
+[
+  {
+    "id": "1",
+    "title": "Example Site",
+    "url": "https://example.com",
+    "category": "Development"
+  },
+  {
+    "id": "2",
+    "title": "Documentation",
+    "url": "https://docs.example.com"
+  }
+]
